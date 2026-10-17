@@ -187,6 +187,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| SEO Records | SEO | `https://api.seorecords.com/mcp` | Open | [SEO Records](https://seorecords.com) |
+| SEO Records Corrector | SEO | `https://api.seorecords.com/mcp/corrector` | Open | [SEO Records](https://seorecords.com) |
+| GEO SEO Records | SEO | `https://api.seorecords.com/mcp/geo` | Open | [SEO Records](https://seorecords.com) |
+| AI Website Security | Security | `https://scan.aiwebsitesecurity.com/api/mcp` | Open | [AI Website Security](https://aiwebsitesecurity.com) |
 
 # Remote MCP Installation Guide
 
